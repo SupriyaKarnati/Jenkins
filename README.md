@@ -1,5 +1,6 @@
 # CI/CD Pipeline with Jenkins, Argo CD, Maven, SonarQube, Docker, and Kubernetes
 
+![228301952-abc02ca2-9942-4a67-8293-f76647b6f9d8](https://github.com/user-attachments/assets/5f7c2f57-e96f-4f55-a4cc-754764c8b290)
 
 This repository demonstrates my implementation of a **CI/CD pipeline** using industry-standard tools for **continuous integration** and **continuous delivery**. The pipeline integrates **Jenkins** for building and testing, **Argo CD** for deployment automation, and **Kubernetes** for container orchestration. **Maven** is used for building Java applications, **SonarQube** for static code analysis, and **Docker** for containerizing the application.
 
